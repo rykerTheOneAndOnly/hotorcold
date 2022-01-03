@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size: 250%;
+    margin-bottom: 15%;
+    user-select: none;
+}
+
+h2 {
+    text-align: center;
+    user-select: none;
+}
+
+input {
+    margin: 0 auto;
+    display: block;
+}
